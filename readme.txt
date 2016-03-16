@@ -1,1 +1,1 @@
-This git be used for a phyon study.
+This git be applicable to phyon study.
